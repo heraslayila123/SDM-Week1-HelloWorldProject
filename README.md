@@ -36,3 +36,15 @@ Alternatively, run:
 ## Author
 
 Heras Layila A.
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+- How to install and configure Node.js.
+- How to create and execute a JavaScript application.
+- How to use package.json and npm scripts.
+- How to initialize a Git repository.
+- How to track project changes using Git.
+- How to create meaningful commits.
+- How to prepare project documentation.
