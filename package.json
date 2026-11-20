@@ -1,0 +1,11 @@
+{
+  "name": "sdm-week1-hello-world",
+  "version": "1.0.0",
+  "description": "My first Node.js project for SDM Technology internship",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Heras Layila",
+  "license": "ISC"
+}
